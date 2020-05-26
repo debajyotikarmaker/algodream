@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/algodream/static/css/main.ffa6a9cf.chunk.css",
-    "main.js": "/algodream/static/js/main.b869430e.chunk.js",
-    "main.js.map": "/algodream/static/js/main.b869430e.chunk.js.map",
+    "main.js": "/algodream/static/js/main.759a30e5.chunk.js",
+    "main.js.map": "/algodream/static/js/main.759a30e5.chunk.js.map",
     "runtime-main.js": "/algodream/static/js/runtime-main.a5cc4db7.js",
     "runtime-main.js.map": "/algodream/static/js/runtime-main.a5cc4db7.js.map",
     "static/css/2.62c23a74.chunk.css": "/algodream/static/css/2.62c23a74.chunk.css",
     "static/js/2.6a747538.chunk.js": "/algodream/static/js/2.6a747538.chunk.js",
     "static/js/2.6a747538.chunk.js.map": "/algodream/static/js/2.6a747538.chunk.js.map",
     "index.html": "/algodream/index.html",
-    "precache-manifest.b7f56778c5013060d1baf6d7c7a07766.js": "/algodream/precache-manifest.b7f56778c5013060d1baf6d7c7a07766.js",
+    "precache-manifest.347c3f85e0bf9c9b58a319411e9bc26a.js": "/algodream/precache-manifest.347c3f85e0bf9c9b58a319411e9bc26a.js",
     "service-worker.js": "/algodream/service-worker.js",
     "static/css/2.62c23a74.chunk.css.map": "/algodream/static/css/2.62c23a74.chunk.css.map",
     "static/css/main.ffa6a9cf.chunk.css.map": "/algodream/static/css/main.ffa6a9cf.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.62c23a74.chunk.css",
     "static/js/2.6a747538.chunk.js",
     "static/css/main.ffa6a9cf.chunk.css",
-    "static/js/main.b869430e.chunk.js"
+    "static/js/main.759a30e5.chunk.js"
   ]
 }
