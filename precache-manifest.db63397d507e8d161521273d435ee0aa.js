@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "86070540a6f3dc58da1bf842ae00ca75",
+    "revision": "9c69f04496687f7c24a64ab07d4e0775",
     "url": "/algodream/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/algodream/static/css/2.62c23a74.chunk.css"
   },
   {
-    "revision": "fa3e84fb5ddf41b6597d",
+    "revision": "f1cb73298685671f4ceb",
     "url": "/algodream/static/css/main.9bd67b46.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/algodream/static/js/2.34e19ea3.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "fa3e84fb5ddf41b6597d",
-    "url": "/algodream/static/js/main.b27713f6.chunk.js"
+    "revision": "f1cb73298685671f4ceb",
+    "url": "/algodream/static/js/main.0689d08a.chunk.js"
   },
   {
     "revision": "6e722bbcc03b923b46b9",
